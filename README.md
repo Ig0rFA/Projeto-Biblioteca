@@ -6,6 +6,11 @@ Futuras funcionalidades estão em desenvolvimento...
 ## Aba HOME:
 ![home](https://github.com/Ig0rFA/Projeto-Biblioteca/blob/main/readme.img/printHome.png).
 
-
-## Aba HOME:
+## Aba CADASTRAR:
 ![cadastrar](https://github.com/Ig0rFA/Projeto-Biblioteca/blob/main/readme.img/printCadastrar.png).
+
+## Aba MULTAS:
+![multas]().
+
+## Aba EMPRÉSTIMOS:
+![empréstimos]().
