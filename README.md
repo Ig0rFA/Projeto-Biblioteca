@@ -4,7 +4,7 @@ Afim de demostrar meus conhecimentos em Java e Banco de Dados resolvi criar um p
 Futuras funcionalidades estão em desenvolvimento...
 
 ## Aba HOME:
-![home](https://github.com/Ig0rFA/Projeto-Biblioteca/blob/main/readme.img/printCadastrar.png).
+![home](https://github.com/Ig0rFA/Projeto-Biblioteca/blob/main/readme.img/printHome.png).
 
 
 ## Aba HOME:
